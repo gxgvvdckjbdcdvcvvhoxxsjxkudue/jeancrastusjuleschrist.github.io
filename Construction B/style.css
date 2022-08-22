@@ -1,0 +1,76 @@
+body{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;}
+
+/*haut*/
+.haut{color: white; text-align: center;}
+.bleu{background-color: #1717a1;}
+.bleu img{width: 5%;}
+.bleu img:hover{border: 2px solid white;border-radius: 6px 6px;}
+.berge{background-color: #FF6600;}
+
+/*navigation*/
+.navigation{height: 80px;font-weight: bold;}
+.urgence{background-color: #FF6600;color: white;}
+.navigation h1{color: #FF6600;}
+.navigation a{color: #1717a1;}
+
+/*carousel*/
+.carousel{background-color: #1717a1;height: 700px;color: white;}
+.carousel img{width: 100%;border-radius: 10% 10%;}
+
+/*maintenance*/
+.maintenance{color: white;background-color: #FF6600;text-align: center;}
+.maintenance img{width: 10%;}
+.maintenance:hover{box-shadow:  3px -3px 3px #1717a1;cursor: pointer;border-radius: 5px 5px;}
+
+/*formation*/
+.formation img{height: 55%;}
+
+/*responsable*/
+.responsable{background-color: rgb(228, 227, 227);text-align: center;}
+.responsable img{width: 80%;}
+
+/*services*/
+.services{background-color: rgb(228, 227, 227);text-align: justify;}
+.sous_services:hover{box-shadow:  1px -1px 1px #1717a1;cursor: pointer;border-radius: 5px 5px;}
+.sous_services{background-color: white;}
+.carousel_2{background-color: rgb(228, 227, 227);}
+.sous_carousel_2{background-color: white;text-align: justify;}
+.sous_carousel_2:hover{box-shadow:  3px -3px 3px #1717a1;cursor: pointer;border-radius: 5px 5px;}
+
+/*commentaire*/
+.commentaire img{height: 10%;width: 60%; border-radius: 70px 70px;}
+
+/*our services*/
+.our{text-align: center;margin-top: 7%;}
+.services_2 img{width: 100%;height: 100%;}
+.blog{margin-top: 7%;}
+.blog img{height: 70%;}
+
+/*contact*/
+.contact{margin-top: 7%;text-align: center;}
+.contact img{height: 100%;}
+.contact h3{font-weight: bold;}
+.contact h1{font-weight: bold;}
+
+/*localisation*/
+.localisation input{border-radius: 8px 8px;border: 1px solid rgb(165, 165, 165);}
+.localisation{background-image: url('images/amazing_AvhnYLR0.gif');background-repeat: no-repeat;}
+.sous_localisation{background-color: rgb(228, 227, 227);}
+/*.sous_localisation1{background-image: url('Screenshot_20220819-155509_1'); height: 60%;width: 50%;}*/
+.input{width: 80%;margin-left: 10%;}
+button{background-color: #FF6600;margin-left: 40%;}
+
+/*footer*/
+footer{background-color: #FF6600;text-align: center;height: 10%;}
+
+/*couleur des liens*/
+.lien-home a{color: #FF6600;}
+.lien-services a{color: #FF6600;}
+.lien-projets a{color: #FF6600;}
+.lien-contact a{color: #FF6600;}
+.nav-link:hover{color: #FF6600;}
+
+
+
+/*---------------page nos projets-----------*/
+.titre{height: 300px;background-color: #1717a1;font-weight: bold;text-align: center;font-family:'Times New Roman', Times, serif;}
